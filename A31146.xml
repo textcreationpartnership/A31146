@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend concerning usury wherein are mentioned all the arguments formerly written for and against the abatement of interest / collected out of four tracts on that subject, one by Sir Thomas Culpeper, Senior, in 1621, another by Sir Thomas Culpeper, Junior, in 1668, the third by Sir Josiah Child in 1668, and the fourth by Mr. Thomas Manley in 1669, by R.C.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31146</idno>
+            <idno type="STC">Wing C106</idno>
+            <idno type="STC">ESTC R35829</idno>
+            <idno type="EEBO-CITATION">15564646</idno>
+            <idno type="OCLC">ocm 15564646</idno>
+            <idno type="VID">103793</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103793)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1588:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend concerning usury wherein are mentioned all the arguments formerly written for and against the abatement of interest / collected out of four tracts on that subject, one by Sir Thomas Culpeper, Senior, in 1621, another by Sir Thomas Culpeper, Junior, in 1668, the third by Sir Josiah Child in 1668, and the fourth by Mr. Thomas Manley in 1669, by R.C.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Culpeper, Thomas, --  Sir, 1578-1662. --  Tract against the high rate of usury.</term>
+               <term>Culpeper, Thomas, --  Sir, 1626-1697. --  Discourse shewing the many advantages which will accrue to this kingdom by the abatement of usury.</term>
+               <term>Child, Josiah, --  Sir, 1630-1699. --  Short addition of the observations concerning trade and interest of money.</term>
+               <term>Manley, Thomas, 1628-1690. --  Usury at six per cent. examined and found unjustly charged.</term>
+               <term>Usury --  Early works to 1800.</term>
+               <term>Interest --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103793:1"/>
+            <p>A LETTER TO A FRIEND CONCERNING USURY.</p>
+            <p>Wherein are mentioned all the Ar<g ref="char:EOLhyphen"/>guments formerly written for and againſt the Abatement of Intereſt.</p>
+            <p>Collected out of Four Tracts on that Subject:</p>
+            <p>One by Sir <hi>Thomas Culpeper</hi> Senior, in 1621. Another by Sir <hi>Thomas Culpe<g ref="char:EOLhyphen"/>per</hi> Junior, in 1668. The Third by Sir <hi>Joſiah Child,</hi> in 1668. And the Fourth by Mr. <hi>Thomas Manley,</hi> in 1669.</p>
+            <p>By <hi>R. C.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed in the Year 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:103793:2"/>
+            <pb n="1" facs="tcp:103793:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Return you many Thanks for your Information, by which after ſome time ſpent in ſearch, I found out all thoſe Pamphlets about Intereſt, which you diſcours'd of; and in return of your Kindneſs, I have ſent you in ſhort the Contents of a <hi>Tract againſt <g ref="char:V">Ʋ</g>ſury,</hi> written by Sir <hi>Thomas Culpeper,</hi> in the Year 1621. and preſented to the Parlia<g ref="char:EOLhyphen"/>ment in the 21ſt of King <hi>James</hi> the Firſt, with a Preface to a <hi>Diſcourſe</hi> about Uſury, written by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Culpeper,</hi> his Son, in the Year 1668. And alſo ſome Arguments from <hi>brief Obſervations concerning Trade,</hi> written in the ſame Year by
+<pb n="2" facs="tcp:103793:3"/>
+Sir <hi>Joſiah Child,</hi> as is ſuppoſed, with all the Objections againſt the redu<g ref="char:EOLhyphen"/>cing of Intereſt, out of a Pamphlet ititled <hi>Intereſt of Six per Cent.</hi> &amp;c. written by <hi>Thomas Manley,</hi> Gent. in the Year 1669. Being an Anſwer to the former Pamphlets; by the reading of which you will be en<g ref="char:EOLhyphen"/>abled to be a Judge of the Contro<g ref="char:EOLhyphen"/>verſie.</p>
+            <p>Sir, The Arguments in a <hi>Tract a<g ref="char:EOLhyphen"/>gainſt <g ref="char:V">Ʋ</g>ſury,</hi> Printed in the Year 1621. which was preſented to the High Court of Parliament, for the reducing of Intereſt from Ten <hi>per Cent.</hi> to Eight, are theſe:</p>
+            <p n="1">I. A high Intereſt decays Trade: The advantage from Intereſt is greater than the Profit from Trade, which makes the Rich Merchants give over, and put out their Stock to Intereſt, and the leſſer Merchants break.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:103793:3"/>II. Intereſt being at Ten <hi>per Cent.</hi> and in <hi>Holland</hi> at Six, our Neigh<g ref="char:EOLhyphen"/>bour Merchants under-ſell us; they can afford their Wares cheaper.</p>
+            <p n="3">III. Intereſt being lower in <hi>Hol<g ref="char:EOLhyphen"/>land</hi> than in <hi>England,</hi> their Contri<g ref="char:EOLhyphen"/>butions to War, Works of Piety, and all Charges of the State, are cheaper unto them than unto us.</p>
+            <p n="4">IV. Intereſt being ſo high, pre<g ref="char:EOLhyphen"/>vents the Building of Shipping, which is the Strength and Safety of our Iſland, moſt Merchant-Ships being built in <hi>Holland.</hi>
+            </p>
+            <p n="5">V. The high Rate of Uſury makes Land ſell ſo cheap, being not worth more than Fourteen or Fifteen Years Purchaſe: Whereas, in <hi>Holland,</hi> where Intereſt is at Six, it is worth above Five and Twenty: So that a low Intereſt
+<pb n="4" facs="tcp:103793:4"/>
+raiſeth the Price of the Land: Where Money is dear, Land is cheap.</p>
+            <p>The <hi>Objections</hi> againſt bringing down of Intereſt, which he takes notice of, are theſe:</p>
+            <p n="1">1ſt. That Money will be ſud<g ref="char:EOLhyphen"/>denly called in, ſo all Borrowers will be greatly prejudiced. To which he anſwers, That it is not pro<g ref="char:EOLhyphen"/>vable that the Lenders will call in their Money, when they cannot make greater Intereſt any where elſe, beſides their Security upon Land is made better.</p>
+            <p n="2">2d. <hi>Objection,</hi> That as Money will be hard to be borrowed, ſo Trade and Commerce hindred; and the Kings Occaſions for Money will not be ſupplied. To this he an<g ref="char:EOLhyphen"/>ſwers, That there will be fewer Borrowers; for the Value of the
+<pb n="5" facs="tcp:103793:4"/>
+Land being raiſed, the Debts upon it will be ſooner diſcharged; and there being leſs occaſion for Money to be lent upon Land, it will the more eaſily be borrowed by the King's Majeſty, Traders, or others; eſpecially by the King, when he al<g ref="char:EOLhyphen"/>ways gives more than Legal In<g ref="char:EOLhyphen"/>tereſt.</p>
+            <p n="3">3d. There is much Money of Foreigners, which when Intereſt is abated, will be called for, or carri<g ref="char:EOLhyphen"/>ed out of the Land, and ſo make Money ſcarce. To this he anſwers, That the Money of Foreigners is not brought into the Land by rea<g ref="char:EOLhyphen"/>dy Coin, or Bullion, but by Goods, or Bills of Exchange; and when it is paid, muſt be returned by Goods, or Bills of Exchange, and there will not be the leſs Money in the Land.</p>
+            <p>
+               <pb n="6" facs="tcp:103793:5"/>Theſe are the Chief Heads of this Pamphlet, which was printed Threeſcore and Ten Years ſince.</p>
+            <p>Sir, The next is a Diſcourſe written by Sir <hi>Thomas Culpeper,</hi> his Son; which becauſe the Arguments are much the ſame, I ſhall not trouble you with them; but I have tranſcribed the Preface <hi>verbatim;</hi> by which you may perceive the Senſe of the Writer.</p>
+            <q>
+               <pb n="7" facs="tcp:103793:5"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="discourse">
+                        <head>
+                           <hi>The Preface to a Book, Intitled</hi> A Diſcourſe, ſhewing the many Advantages which will accrue to this Kingdom, by the abatement of Uſury.</head>
+                        <p>IT is now about Forty five years ſince, (<hi>viz.</hi> 21 <hi>Jacobi</hi>) That my deceaſed Father (being a Member of the Par<g ref="char:EOLhyphen"/>liament for that year) firſt attempted the bringing down of Intereſt from Ten to Eight in the Hundred; and Publiſh<g ref="char:EOLhyphen"/>ed a Diſcourſe thereupon: Wherein his endeavours (aſſiſted by many Patriots of that time) ſo well ſucceeded, that a Law was then made for that Pur<g ref="char:EOLhyphen"/>poſe.</p>
+                        <p>It paſſed with all the Oppoſition ima<g ref="char:EOLhyphen"/>ginable, and nothing was left un-object<g ref="char:EOLhyphen"/>ed, or un-anſwered, which the Will of Man could deviſe, for it was an untroden Path, and muſt be hewn
+<pb n="8" facs="tcp:103793:6"/>
+out by dint of Reaſon, in regard none of thoſe Arguments, wherewith Expe<g ref="char:EOLhyphen"/>rience hath ſince happily furniſhed us, in great Plenty, could then be pro<g ref="char:EOLhyphen"/>duced.</p>
+                        <p>At the paſſing of it, he hath often told me, That a Member of that Par<g ref="char:EOLhyphen"/>liament, of as great Authority and E<g ref="char:EOLhyphen"/>ſteem as any then ſitting, and a Princi<g ref="char:EOLhyphen"/>pal Oppoſer, ſpake to this Effect, That though he could not proteſt, yet he deſired, it might be remembred, That he had foreſeen and foretold the Inconveniencies that would enſue: To which it was by my Father replyed, That he deſired it might likewiſe be remembred, That he had Propheſied the many happy Effects of it, <hi>(viz.)</hi> To the King, in the improvement of his Cuſtoms: To the Landlord, in the advancement of his Rents, and price of his Inheritance: To the Merchant, in quickneſs of his Trade, and benefit of his Returns: To the Borrower in the eaſe of his Condition, <hi>&amp;c.</hi> And Iſſue was joyned concerning his Ma<g ref="char:EOLhyphen"/>jeſties Cuſtoms of Exportation, as a Meaſure of all the reſt: Not many
+<pb n="9" facs="tcp:103793:6"/>
+years after they met again; and my Fa<g ref="char:EOLhyphen"/>ther pleaſantly asked him; whether he had lately been at the Cuſtom-houſe: which he as readily apprehending, moſt ingeniouſly yielded the Cauſe.</p>
+                        <p>Soon after this there was a long Vacancy of Parliaments: till the year 1640. At which time my Father (be<g ref="char:EOLhyphen"/>ing ſtrengthned with ſucceſs, and fur<g ref="char:EOLhyphen"/>ther incited by Intelligence from <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> that they had there newly aba<g ref="char:EOLhyphen"/>ted their Intereſt) ſet forth another Treatiſe, to evince the neceſſity of re<g ref="char:EOLhyphen"/>ducing Money from Eight to Six; the Ground-work whereof was, That till we brought Intereſt to the ſame Rate with the <hi>Dutch,</hi> our deſign was lame, and our Grand Competitors would ſtill have the ſtart of us: The Buſineſs was ready for the Mint, and would cortainly have paſſed, but that it was intercepted by unnatural Diſ<g ref="char:EOLhyphen"/>cord.</p>
+                        <p>Hitherto the neceſſity of it did not ſo viſibly appear; it was as yet but convenience, for the <hi>Dutch</hi> had then their hands full of their War with <hi>Spain,</hi>
+                           <pb n="10" facs="tcp:103793:7"/>
+which (though proſperous enough) was ſome Curb to their growth in Com<g ref="char:EOLhyphen"/>merce; <hi>Germany</hi> was ſo haraſſed and embroiled, that it could neither Trade nor Till; <hi>France</hi> ſo exhauſted, that it bought of us much more than it ſold; <hi>Sweden</hi> a meer Limb of the <hi>French</hi> In<g ref="char:EOLhyphen"/>tereſt; we alone (ſitting under the Shaddow of our own Vines) might af<g ref="char:EOLhyphen"/>ford to give them all great odds; for all the Markets of the World were full of our Growth, and thin of theirs: The Kings Cuſtoms yearly greatly ad<g ref="char:EOLhyphen"/>vanced; the Gentleman daily raiſed his Rent, yet duly received it, which the Farmer chearfully paid, and the Merchant (their Factor) thrived with his Principal; Our Land was yearly improved, and with it Our Manufa<g ref="char:EOLhyphen"/>cture increaſed; Our poor generally employed, and not turned a Charge upon the Land; Our Debtors daily cleared themſelves, either by ſale of Land, or fortunate Induſtry: So as, in a ſhort time, <hi>There would have been no de<g ref="char:EOLhyphen"/>cay, no leading into Captivity, and no com<g ref="char:EOLhyphen"/>plaining in our Streets.</hi>
+                        </p>
+                        <p>
+                           <pb n="11" facs="tcp:103793:7"/>Betwixt 1640 and 1660, was a vaſt Gulf of Twenty Years ruine and di<g ref="char:EOLhyphen"/>ſtraction in this Kingdom; during which time (not to mention our own Decli<g ref="char:EOLhyphen"/>nation, (<hi>viz. Anno</hi> 1647, happened the Peace at <hi>Munſter,</hi> whereby the <hi>Dutch</hi> (being unmoleſted and ſecured from <hi>Spaniſh</hi> pretence) were at leiſure to in<g ref="char:EOLhyphen"/>tend their Trade, and undermine Ours. <hi>Germany</hi> hath had time to Re-people, Re-build, and Re-plant. <hi>Sweden</hi> is be<g ref="char:EOLhyphen"/>come an Independent Power, of much weight in the Ballance of Chriſtendom. And <hi>France</hi> firſt making Peace with the <hi>Emperor,</hi> then with <hi>Spain,</hi> (by the So<g ref="char:EOLhyphen"/>vereignty of its Dominion, the large<g ref="char:EOLhyphen"/>neſs and compactneſs of its Territory, and the preheminence of its Soil and Climate) is in a few Years become dan<g ref="char:EOLhyphen"/>gerous to us all.</p>
+                        <p>
+                           <hi>Anno</hi> 1652. The Grandees of that <hi>Junto</hi> found themſelves in a dangerous Dilemma: For, as on the ſide, they ſaw, That without encouraging Trade and Navigation, their New Machine of a Commonwealth muſt ſoon fall; ſo neither, without the utter Oppreſſion of the Nobility and Gentry, could it long
+<pb n="12" facs="tcp:103793:8"/>
+ſtand: They therefore (for the preſent Exigence) contrived an Expedient, by continuing all the Burthens upon Land, and abating Intereſt to Six <hi>per Cent.</hi> They meant, no queſtion, (when they had once accompliſhed their purpoſe of ruining their Enemy the Landlord) to bring it lower; as yet it was not ſea<g ref="char:EOLhyphen"/>ſonable; for ſcarce any Land-Taxes, with very low Intereſt, would greatly and ſuddenly hurt him: But ſure they were ſhort-ſighted if they did not ſee, That Land-Taxes would deſtroy Trade, though not ſo immediately, yet as ef<g ref="char:EOLhyphen"/>fectually as high Intereſt; And that, if by Embaſing our Land, we diſcourage its Improvement, we nip our Trade in its very Bud.</p>
+                        <p>
+                           <hi>Anno.</hi> 1660. His Majeſty being hap<g ref="char:EOLhyphen"/>pily reſtored, and the Kingdom ſettled, my Father forthwith reſumed his deſign of further abating Intereſt, as the grea<g ref="char:EOLhyphen"/>teſt of Bleſſings both to King and Kingdom: But my Lord <hi>Culpeper</hi> dy<g ref="char:EOLhyphen"/>ing, (who, he knew had the ſame Thoughts, and through whoſe Aſſiſtance only he hoped to effect it) he ſoon gave it over, finding (as he ſaid) that
+<pb n="13" facs="tcp:103793:8"/>
+the World was then intent upon other Game than Trade; and deſpairing that himſelf ſhould live to ſee it: Yet, before his death he recommended the Proſecu<g ref="char:EOLhyphen"/>tion of it to me, (his Executor) toge<g ref="char:EOLhyphen"/>ther with the Payment of his Debts; Adding ſometimes in jeſt, That the Uſurer and he were not yet even; for he had only ſcratched the Uſurer; the Uſurer had ſtab'd him: but he hoped he might (without Breach of Charity) will me, if I could, to revenge his quar<g ref="char:EOLhyphen"/>rel, by doing good to the Uſurer againſt his will.</p>
+                        <p>Accordingly he made it the main drift of his private diſcourſes with me, in the laſt period of his Age (being 87 Years old when he died, about ſix Years ſince) to arm me for his Encounter, by poſſeſſing me not only with the Evi<g ref="char:EOLhyphen"/>dence, but the Importance of the Ar<g ref="char:EOLhyphen"/>gument, by telling me frequently, That when he was forgotten, it would be re<g ref="char:EOLhyphen"/>vived; That he wiſhed it were not too late conſidered; That it would at once Reform a thouſand Abuſes; That he did not ſee how a Regiſter could be, till low Intereſt firſt made way for it, by clear<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:103793:9"/>
+Incumbrances: That he marvelled Sir <hi>Walter Raleigh,</hi> who wrote ſo many notable things concerning Trade, Na<g ref="char:EOLhyphen"/>vigation, and Fiſhing, never harped up<g ref="char:EOLhyphen"/>on this String; That he could boaſt to have been happily inſtrumental in the recovery and preſervation of many thou<g ref="char:EOLhyphen"/>ſand Acres of excellent Marſh-Land, but to his own loſs, by unhappily expo<g ref="char:EOLhyphen"/>ſing himſelf to the Canker of Intereſt, that Intereſt being high, borrowing chargeable, and all the burthens laid upon Land, it was time for Gentlemen in debt (if they meant honeſtly) to wear Linſey-Woolſey, and eat Eggs and Sal<g ref="char:EOLhyphen"/>lets; to which we muſt all come by de<g ref="char:EOLhyphen"/>grees: for ſo the wary <hi>Spaniard</hi> in a barren Country, ſupports himſelf againſt the extremity of Taxes.</p>
+                        <p>In the ſame Year, <hi>viz.</hi> 12 <hi>Car.</hi> 2. (Six <hi>per Cent.</hi> being then generally practiſed) That Convention holding it neceſſary to continue the ſaid practice, confirmed it by a Statute Intituled <hi>An Act for Re<g ref="char:EOLhyphen"/>ſtraining Exceſſive Uſury:</hi> The Preamble whereof is as followeth. Foraſmuch as the Abatement of Intereſt from ten in the Hundred, in former times hath been
+<pb n="15" facs="tcp:103793:9"/>
+found by notable Experience, beneficia to the Advancement of Trade, and Im<g ref="char:EOLhyphen"/>provement of Lands, by good Husban<g ref="char:EOLhyphen"/>dry, with many other conſiderable Ad<g ref="char:EOLhyphen"/>vantages to this Nation: eſpecially in the Reducing of it to a nearer propor<g ref="char:EOLhyphen"/>tion with other States, with whom we Traffick. And whereas, in freſh memo<g ref="char:EOLhyphen"/>ry, the like fall from Eight to Six in the Hundred by a late conſtant practice, hath found the like ſucceſs, to the gene<g ref="char:EOLhyphen"/>ral Contentment of this Nation, as is viſible by ſeveral Improvements. And whereas it is the endeavour of ſome at preſent, to reduce it back again in pra<g ref="char:EOLhyphen"/>ctice to the allowance of the Statute ſtill in force, to Eight in the Hundred; to the great diſcouragement of Ingenui<g ref="char:EOLhyphen"/>ty and Induſtry in the Husbandry, Trade, and Commerce of this Nation. <hi>Be it therefore,</hi> &amp;c. Confirmed 13 <hi>Car.</hi> 2. <hi>Cap.</hi> 14.</p>
+                        <p>After my Fathers deceaſe, I endea<g ref="char:EOLhyphen"/>voured what I could to propagate ſo fruitful a Plant, and try if it would grow at <hi>London;</hi> which, I take it, is not ſo far <hi>Northward</hi> as <hi>Amſterdam;</hi> but for want of Eloquence, I found
+<pb n="16" facs="tcp:103793:10"/>
+my ſelf always contradicted and foil<g ref="char:EOLhyphen"/>ed; though I muſt needs ſay never convinced.</p>
+                        <p>The moſt popular Argument I met with, was this, That Eight <hi>per Cent.</hi> were far more ſeaſonable in our ſcarcity of Money: Since, 1. High Intereſt brings Money. 2. Money brings Trade. To the firſt of theſe Propoſitions, I could have anſwered, That the Money mentioned muſt be either Gotten, Gi<g ref="char:EOLhyphen"/>ven, or Lent: Gotten, I fear it cannot be at Eight <hi>per Cent.</hi> becauſe I ſee, that even at Six <hi>per Cent.</hi> our wiſeſt Traders (who both by their Stocks and Experience, are beſt able to manage Trade) daily decline it, and betake them<g ref="char:EOLhyphen"/>ſelves to Intereſt, as a more ſteady In<g ref="char:EOLhyphen"/>come, leaving younger Men (who com<g ref="char:EOLhyphen"/>monly are more ſanguine) to feaſt them<g ref="char:EOLhyphen"/>ſelves with Hope, and buy their Experi<g ref="char:EOLhyphen"/>ence. Given, I doubt it is not, for I hear of ſlender Charity now ſtirring. If it be Lent, it muſt be re-paid with greater Intereſt, than the Uſe of it will yield; and that mars all. To the ſe<g ref="char:EOLhyphen"/>cond I could have ſhewn the vaſt dif<g ref="char:EOLhyphen"/>ference, where Trade brings Money, as
+<pb n="17" facs="tcp:103793:10"/>
+it doth in <hi>Holland,</hi> and once did here; and where Money brings Trade, as it doth ſtill in <hi>Spain.</hi> But I found the Torrent was not to be ſtemm'd, and ſo reſerved my Purpoſe for a calmer Seaſon.</p>
+                        <p>By this time the War with <hi>Holland</hi> was begun, and all Diſcourſes ſilenced with the Sound of Cannon; the Event whereof was neither ſo good as we ſome<g ref="char:EOLhyphen"/>times hoped, nor ſo bad as once we feared; but compounded of ſtrange Diſappointments and Deliverances: Of all which, the moſt profitable Uſe we can make, is this; That though we prevailed ſufficiently by Blows and Booties, yet we were firſt wearied with the Expence.</p>
+                        <p>And no marvel, if we duly conſider the vaſt diſproportion of our reſpective Charges: For 3 to 6, or 4 to 8, bears the ſame Analogy as 30 to 60, or 40 to 80. Now if the States by command<g ref="char:EOLhyphen"/>ing Money at 4 <hi>per Cent.</hi> could in Build<g ref="char:EOLhyphen"/>ing, Rigging, Victualling, Paying, <hi>&amp;c.</hi> do that for 40 <hi>l.</hi> which muſt coſt His Majeſty 80 <hi>l.</hi> (and I wiſh he had Money ſo cheap) I ſuppoſe, (the Forces being
+<pb n="18" facs="tcp:103793:11"/>
+otherwiſe reaſonably ballanced) ſcarce any Goodneſs of Ships, Valour of Sea<g ref="char:EOLhyphen"/>men, or Advantage of Situation and Ports, will countervail ſuch Odds.</p>
+                        <p>Some Months after the Peace was proclaimed, preſuming that our late Experience, and preſent Exigence, could not but conduce to my Deſign, by diſ<g ref="char:EOLhyphen"/>poſing many who were averſe, to re<g ref="char:EOLhyphen"/>ceive Impreſſions contrary to their for<g ref="char:EOLhyphen"/>mer Judgments, and affording me (at leaſt) ſome Illuſtrations; I went to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> with full purpoſe to promote it; but found my ſelf happily prevented by one Mr. <hi>Child,</hi> a Merchant of known Abilities in Trade, and choice Conver<g ref="char:EOLhyphen"/>ſation, who (riſing as it were out of my Father's Duſt) did by his own Sagacity find out this hidden Vein; and lighting afterwards, by meer chance, upon one of my Father's Treatiſes, modeſtly re<g ref="char:EOLhyphen"/>printed it, with its proper Date, and annexed it to his own excellent Trea<g ref="char:EOLhyphen"/>tiſe, entituled, <hi>Brief Conſiderations con<g ref="char:EOLhyphen"/>cerning Trade and Intereſt of Money:</hi> Whoſe honeſt Endeavours for his King and Countries Service, I am bound to aſſiſt with my utmoſt Skill and Power;
+<pb n="19" facs="tcp:103793:11"/>
+and in purſuance thereof, have compo<g ref="char:EOLhyphen"/>ſed this Tract, which, with all humility, I preſent to your Wiſdoms.</p>
+                        <closer/>
+                        <postscript>
+                           <p>In a <hi>Poſt-ſcript</hi> he takes notice of this Objection.</p>
+                           <p>
+                              <hi>That ſince the Law of the Land has ſetled the Rate of Intereſt, the Uſurer has a Property by Law to Intereſt; and it would be as much wrong to make a Law to abate Intereſt, as to take away ſo much of the Rent of every Man's Land: And ſuch a Law would be a great Prejudice to Widows, Orphans, and others, who live upon Intereſt, and know not how otherwiſe to employ their Stock.</hi>
+                           </p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>To this he anſwers, That as to Or<g ref="char:EOLhyphen"/>phans, it can be no prejudice; becauſe, as the Law of <hi>England</hi> now ſtands, Exe<g ref="char:EOLhyphen"/>cutors are not obliged to pay Intereſt.</p>
+            <p>Secondly, That there is no Property or Right to Intereſt by the Laws of the Land; but the Right doth ſolely ariſe by the Covenant and Agreement of the Party. Both by Eccleſiaſtical and Sta<g ref="char:EOLhyphen"/>tute-Law, Uſury was counted unlawful;
+<pb n="20" facs="tcp:103793:12"/>
+and thoſe Statutes that afterwards limi<g ref="char:EOLhyphen"/>ted Intereſt to 10, 8, and 6 <hi>per Cent.</hi> did only take away the Penalties from the former Statutes, but did not make it more lawful.</p>
+            <p>By the ancient Canons of the Church, the Uſurers were in the ſame Condition with the Excommunicated: They were denied the Sacraments, diſabled to make Wills, and not permitted Burial in Church or Church-yard.</p>
+            <p>By the Statute of the 3 of <hi>H.</hi> 7. it was Ordained, That all Uſury ſhould be ex<g ref="char:EOLhyphen"/>tirpated. By the 11 of <hi>H.</hi> 7. He that lendeth his Money upon Uſury, ſhall forfeit one half thereof.</p>
+            <p>The Statute made in the 3 of <hi>H.</hi> 8. takes off the former Penalties, and limits Intereſt to 10 <hi>per Cent.</hi> but in the ſame Statute declares Uſury unlawful.</p>
+            <p>In the 5 of <hi>E.</hi> 6. the Law of <hi>H.</hi> 8. was Repealed; and it was then Enacted, That no Perſon ſhould take Intereſt, upon the Penalties of loſing the Princi<g ref="char:EOLhyphen"/>pal, be Impriſoned, and Fined at the King's Pleaſure.</p>
+            <p>
+               <pb n="21" facs="tcp:103793:12"/>In the 13 of <hi>Eliz.</hi> the Law of <hi>E.</hi> 6. was Repealed, and that of <hi>H.</hi> 8. was re<g ref="char:EOLhyphen"/>inforced: But in that Statute Uſury is called a Vice, and a deteſtable Sin; and provides, That it may be puniſhed by the Eccleſiaſtical Law.</p>
+            <p>The Statute in the 21 of King <hi>James</hi> the Firſt, by which Intereſt was redu<g ref="char:EOLhyphen"/>ted from 10 to 8, relates the great Miſ<g ref="char:EOLhyphen"/>chiefs from high Intereſt, and provides, That no Words in the ſaid Act ſhould be conſtrued to allow the Practice of Uſury, as to the Point of Religion.</p>
+            <p>The Law made in 1652. being the ſame with that of the 12th and 13th of <hi>Car.</hi> 2. which reduced Intereſt from 8 to 6, takes notice in the Preamble, of the great Advantage to the Nation, by the bringing down of Intereſt; and re<g ref="char:EOLhyphen"/>ſtrains, under Penalties, the taking above 6 <hi>per Cent.</hi> but gives no more Legal nor Eccleſiaſtical Right, than the former Statutes.</p>
+            <p>By this it appears, that Uſury was accounted a Crime; ſo that the abating
+<pb n="22" facs="tcp:103793:13"/>
+of it, is but the leſſening of the Sin; and if there was any Right from thoſe Laws, it was very uncertain: And how ſevere ſoever the Lowering of Intereſt from 6 to 4 <hi>per Cent.</hi> may be to Widows, Orphans, and Younger Brothers; yet they will ſtill have as much Rent for their Money, as the Gentry and their Elder Brothers have for their Land; for the Land of <hi>England</hi> does not yield more than 4 <hi>per Cent.</hi>
+            </p>
+            <p>The next Remarks are from <hi>Brief Ob<g ref="char:EOLhyphen"/>ſervations concerning Trade and Intereſt of Money;</hi> written, as is ſuppoſed, by Sir <hi>Joſiah Child,</hi> in 1668.</p>
+            <p>Amongſt the ſeveral Means which he recites for the promoting of Trade, he concludes, <hi>That a Low Intereſt is the chiefeſt;</hi> and lays down this Poſition, <hi>That the Abatement of</hi> Intereſt <hi>is the Cauſe of the Proſperity and Riches of the Nation; and that the bringing down of</hi> Intereſt <hi>in this Kingdom, from</hi> Six <hi>to</hi> Four, <hi>or</hi> Three per Cent. <hi>will neceſſarily, in leſs than twen<g ref="char:EOLhyphen"/>ty Years time, double the Capital Stock of the Nation.</hi> He proves this very clearly, by ſeveral Arguments, which will be too
+<pb n="23" facs="tcp:103793:13"/>
+long to recite. I ſhall therefore only mention two of his Inſtances.</p>
+            <p>Firſt, That where Intereſt is high, the People are poor, and Money ſcarce; as to inſtance in <hi>Spain, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> where Money is at 10 and 12 <hi>per Cent.</hi> the Inhabitants are poor, ill fed and clad; though <hi>Ireland</hi> and <hi>Spain</hi> are both very fertile Countries, and to the latter all the Gold and Silver of the <hi>In<g ref="char:EOLhyphen"/>dies</hi> are brought; and yet there is ſeldom any but Braſs Money ſeen in the Country. On the contrary, in <hi>Italy</hi> and <hi>Holland,</hi> where Money yields not above Three <hi>per Cent.</hi> the People are Rich, full of Trade, and their Land ſells from Thirty five to Forty Years Purchaſe.</p>
+            <p>Secondly, That by the ſeveral Abate<g ref="char:EOLhyphen"/>ments of Intereſt in <hi>England,</hi> we have ſo increaſed in Riches, that now 2000 <hi>l.</hi> is eſteemed no greater Portion than 500 <hi>l.</hi>
+was Fifty Years ago; and a Knight now exceeds a Lord of thoſe days in rich Clothes, Plate, Jewels, <hi>&amp;c.</hi> and that we have almoſt a hundred Coaches for one we had then.</p>
+            <p>
+               <pb n="24" facs="tcp:103793:14"/>And if Intereſt were lowered to Three or Four <hi>per Cent.</hi> the Nobility and Gen<g ref="char:EOLhyphen"/>try may preſently, in ſtead of Fifty, write One hundred. The Merchants, who bear the Burden of the Day, by trading upon Intereſt, will find their Yoke lighter. The Mariners, Ship<g ref="char:EOLhyphen"/>wrights, Porters, Clothiers, Packers, and all ſorts of Labouring People, would be more conſtantly imploy'd; and the Farmers would ſell the Product of their Land at better Rates. He concludes with anſwering of ſeveral Objections, which are the ſame as are before recited.</p>
+            <p>
+               <hi>Sir,</hi> The next Recitals are out of a Book entituled, <hi>Uſury at Six</hi> per Cent. <hi>&amp;c.</hi> written by Mr. <hi>Thomas Man<g ref="char:EOLhyphen"/>ly,</hi> in 1669. wherein he deſigns to an<g ref="char:EOLhyphen"/>ſwer the two Books before-recited, one written by Sir <hi>Tho. Culpeper junior,</hi> and the other by Sir <hi>Joſiah Child,</hi> which he does ſo confuſedly, and to ſo little Pur<g ref="char:EOLhyphen"/>poſe, that I cannot find any thing conſiderable to take notice of, only in the Main, his deſign is to excuſe the Uſurer, and to lay the blame of the decay of Trade from the dearneſs of
+<pb n="25" facs="tcp:103793:14"/>
+the Commodities, which he ſaith doth ariſe from the high Priſes of the Work<g ref="char:EOLhyphen"/>men and Labouror Wagges; and the Merchants and Traders living too well, ſpending too much of foreign Commodi<g ref="char:EOLhyphen"/>ties, and drinking too much Wine; ſo that he would have the People to be ſtarved, and go in Thredbare Clothes, and drink nothing but Water or Small Bear, that they might be the better able to pay Intereſt.</p>
+            <p>But becauſe the main Deſign of his Treatiſe is to prevent the abating of In<g ref="char:EOLhyphen"/>tereſt, that I might be impartial to both ſides, I have recited every one of his Arguments, which he devides into Nine.</p>
+            <p>He begins, The many Miſchiefs that will enſue from the abating of Intereſt are theſe.</p>
+            <p n="1">1. It will draw the Treaſure of the Nation into a few Hands, (than which nothing can be more pernicious,) occa<g ref="char:EOLhyphen"/>ſion the hoarding of it up in the Mi<g ref="char:EOLhyphen"/>ſers Cheſt; by which I perceive he thinks the Uſerers will lock up their Mo<g ref="char:EOLhyphen"/>ney, rather than lend it at Three or Four <hi>per Cent.</hi> but the Uſurers are wiſer
+<pb n="26" facs="tcp:103793:15"/>
+Men, and have learnt the Proverb, <hi>That it is better to have half a Loaf than no Bread;</hi> neither is Three or Four <hi>per Cent.</hi> ſo contemptable a Gain to be ſo ſlighted, for many Gentlemen are now contented to Lett out Money at Four <hi>per Cent:</hi> And the <hi>Eaſt-India</hi> Company gives no more than Three <hi>per Cent.</hi> at this time.</p>
+            <p n="2">2. It will make Money ſcarce to be borrowed: that's anſwered before, for the Lenders do now put out their Mo<g ref="char:EOLhyphen"/>ney at Three and Four <hi>per Cent.</hi> before ſuch a Law is made, therefore will not refuſe it afterwards.</p>
+            <p n="3">3. It will expoſe, both at preſent and in the future, an infinite number of Widows, Orphans, and other impotent Perſons, to great want and extremity: This Objection was before anſwered by Sir <hi>Thomas Culpeper.</hi>
+            </p>
+            <p n="4">4. It will encourage our Gentry to run into debt, by making moſt of them bolder in borrowing.</p>
+            <p n="5">
+               <pb n="27" facs="tcp:103793:15"/>5. It will oblige the Nobility and Gentry to provide greater Portions for their younger Children.</p>
+            <p n="6">6. It will introduce a thouſand tricks amongſt the rank Uſurers, Brokers, and Scriveners.</p>
+            <p n="7">7. It will cauſe the <hi>Dutch</hi> to withdraw their Money from us.</p>
+            <p n="8">8. It only can retard the Building of <hi>London,</hi> &amp;c. But this is no Objection now, nor ever would have been, if <hi>Lon<g ref="char:EOLhyphen"/>don</hi> had not been Built, no more than the other are before-recited.</p>
+            <p n="9">9. And laſtly, It will expoſe the Gen<g ref="char:EOLhyphen"/>try who ſhall be in debt at the paſſing ſuch a Law, to many and great incon<g ref="char:EOLhyphen"/>veniencies. The Reaſons are, that he thinks the Money will be called for, and not lent again by others, though the Se<g ref="char:EOLhyphen"/>curity be inlarged by the lowring of In<g ref="char:EOLhyphen"/>tereſt, which raiſes the value of Land.</p>
+            <p>Sir, Theſe are his Arguments, the Weight of them I'll leave to you to judge; all that I obſerve from the Four Pamphlets is this;</p>
+            <p>
+               <pb n="28" facs="tcp:103793:16"/>Firſt, That the Land of <hi>England,</hi> when Sir <hi>Thomas Culpeper</hi> wrote his Diſcourſe, was at Fifteen and Sixteen years Purchaſe, and I ſee now that it is worth generally Two or three and Twenty, which does ſolely ariſe from the abating of Intereſt.</p>
+            <p>Second, That Intereſt was at Six <hi>per cent.</hi> in <hi>Holland;</hi> but after it was reduced to Eight in <hi>England,</hi> it was reduc'd to Four in <hi>Holland;</hi> and now being at Six here, 'tis there at Three: So that they have always kept the ſame advan<g ref="char:EOLhyphen"/>tage in Trade, from our over Bal<g ref="char:EOLhyphen"/>lence by Intereſt, well underſtanding the Profit they have from thence.</p>
+            <p>Third, That the <hi>Dutch</hi> ſent Money here in <hi>England</hi> in thoſe days, and the lowring of Intereſt did not cauſe them to call it home; but it were better for this Nation if it would, for then they would return their Effects in our Na<g ref="char:EOLhyphen"/>tive Commodities, and not keep their lean Kine to be made fat by Intereſt, as Sir <hi>Joſiah</hi> expreſſeth it. For if Mo<g ref="char:EOLhyphen"/>ney had not been then reduc'd, every 1000 <hi>l.</hi> from the Intereſt of 10 <hi>per
+<pb n="29" facs="tcp:103793:16"/>
+cent.</hi> would have been now a Million; according to Old Mr. <hi>Audley</hi>'s Ob<g ref="char:EOLhyphen"/>ſervation, that One hundred Pound, put out at Ten <hi>per cent,</hi> would make a Hundred thouſand Pound in Seven<g ref="char:EOLhyphen"/>ty years, ſo long it is ſince Intereſt was firſt lowered.</p>
+            <p>Therefore the Memory of Sir <hi>Thomas Culpeper</hi> ought to be in high Eſteem with this Nation, being the firſt, by his ſagacity, that brought down Inte<g ref="char:EOLhyphen"/>reſt, or elſe perhaps the whole Land of <hi>England</hi> by this time had been mort<g ref="char:EOLhyphen"/>gaged, if not ſold to the <hi>Dutch.</hi>
+            </p>
+            <p>Laſtly, Sir <hi>Thomas</hi> his Arguments for abating of Intereſt from Ten to Eight, which were, That it would raiſe the Price of Land, and promote Trade, <hi>&amp;c.</hi> are the ſame as are now uſed to re<g ref="char:EOLhyphen"/>duce Intereſt from Six to Four, and experience hath ſhewn their good Ef<g ref="char:EOLhyphen"/>fects; and therefore we have Reaſon to expect the like advantage, the Ob<g ref="char:EOLhyphen"/>jections were the ſame then as now, and therefore can have no greater Force, nor worſer Effects.</p>
+            <p>
+               <pb n="30" facs="tcp:103793:17"/>Sir, I have exceeded the Bounds of a Letter, which I could not avoid, to bring the chief Contents of Twelve Sheets into Two, without being un<g ref="char:EOLhyphen"/>juſt to ſome of the Authors, and ren<g ref="char:EOLhyphen"/>dring my Endeavour unacceptable, gi<g ref="char:EOLhyphen"/>ving you an imperfect Account, which was the chiefeſt of my Care to avoid.</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>
+                  <hi>I am your moſt Obedient Servant.</hi> R. C.</signed>
+               <dateline>Lond. <date>Oct. 20. 1690.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103793:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
